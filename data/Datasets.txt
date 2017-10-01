@@ -1,0 +1,34 @@
+I've put together a list of datasets based around the suggestions we got the other day.  
+There were plenty on the World Bank. 
+I'll add them all here. 
+Take a look at them and we can decide which ones we want to use.
+
+
+Imports of goods and services (% of GDP)
+link: https://data.worldbank.org/indicator/NE.IMP.GNFS.ZS?view=chart
+
+Exports of Goods and Services (% of GDP)
+link: https://data.worldbank.org/indicator/NE.EXP.GNFS.ZS?view=chart
+
+GDP (current US$)
+link: https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?view=chart
+
+GDP growth (annual %)
+link: https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?view=chart
+
+GDP per capita (current US$)
+link: https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?view=chart
+
+GDP per capita, PPP (current international $)
+link: https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?view=chart
+
+GDP per capita growth (annual %)
+link: https://data.worldbank.org/indicator/NY.GDP.PCAP.KD.ZG?view=chart
+
+Refugee population by country or territory of asylum
+link: https://data.worldbank.org/indicator/SM.POP.REFG?view=chart
+
+World Happiness Rank (2015, 2016, and 2017 only)
+link: https://www.kaggle.com/unsdsn/world-happiness/data
+
+
