@@ -10,3 +10,14 @@ Team Member Name: Ashley Overman
 			https://github.com/UNCG-CSE/World-Refugee-Forecast/commit/677ae0ca9c1d0d5ad54563172258899832325395
 		10/15,16,17 - imports and exports on matplotlib
 			commit history TBA
+            
+Team Member Name: Nathaniel Clay Arnold 
+    Target Goals: 
+        visualize refugees by country of origin data set in a choropleth (single year)
+        visualize refigees by country of asylum data set in choropleth (single year)
+        make choropleths with drag bar to dynamically show all years 
+        remove NaN data from each year
+        parse through country names to find agrigates and break them down  
+        
+    Achieved Goals: 
+        1990 refugees by country of origin displayed in choropleth (10/16/2017) 
