@@ -9,7 +9,8 @@ Team Member Name: Ashley Overman
 		10/15 - readme updated
 			https://github.com/UNCG-CSE/World-Refugee-Forecast/commit/677ae0ca9c1d0d5ad54563172258899832325395
 		10/15,16,17 - imports and exports on matplotlib
-			commit history TBA
+			users can choose which years and imports/exports to view in a graph
+			https://github.com/UNCG-CSE/World-Refugee-Forecast/commit/064db0fc1d7dc73c034640c6b9bd6b7485fd7afb
             
 Team Member Name: Nathaniel Clay Arnold 
     Target Goals: 
