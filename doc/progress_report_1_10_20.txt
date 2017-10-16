@@ -1,0 +1,12 @@
+WORLD REFUGEE FORECAST TEAM PROGRESS REPORT
+
+Team Member Name: Ashley Overman
+	Target Goals:
+		Update and elaborate on readme
+		Compare imports and exports by year (matplotlib)
+		Be able to choose years to view imports and exports of
+	Achieved Goals:
+		10/15 - readme updated
+			https://github.com/UNCG-CSE/World-Refugee-Forecast/commit/677ae0ca9c1d0d5ad54563172258899832325395
+		10/15,16,17 - imports and exports on matplotlib
+			commit history TBA
