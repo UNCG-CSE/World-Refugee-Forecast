@@ -22,3 +22,13 @@ Team Member Name: Nathaniel Clay Arnold
         
     Achieved Goals: 
         1990 refugees by country of origin displayed in choropleth (10/16/2017) 
+
+Team Member Name: Basheer Eljabaly
+    Target Goals: 
+    	   Create a bar chart for food deficit in all countries for a single year based on input
+	   Create a line chart for food deficit for all years for a single country based on input
+	   Visually compare a single country food deficit vs. refugees by country of origin
+    Achieved Goals:
+    
+	   
+	   
