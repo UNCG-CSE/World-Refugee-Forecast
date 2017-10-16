@@ -25,10 +25,13 @@ Team Member Name: Nathaniel Clay Arnold
 
 Team Member Name: Basheer Eljabaly
     Target Goals: 
-    	   Create a bar chart for food deficit in all countries for a single year based on input
+    	   Create a bar chart for food deficit in all countries for a single year based on input using matplotlib
 	   Create a line chart for food deficit for all years for a single country based on input
 	   Visually compare a single country food deficit vs. refugees by country of origin
     Achieved Goals:
+    	10/13,16 - create a bar char for food deficit in all countries for a single year based on input using matplotlib
+		   https://github.com/UNCG-CSE/World-Refugee-Forecast/commit/631bed0ff72cb032a2d70684ad9c3cc463d864f1
+		   https://github.com/UNCG-CSE/World-Refugee-Forecast/commit/f418658287642bd44b9e6d17d84b298d502c193d
     
 	   
 	   
