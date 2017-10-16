@@ -16,7 +16,7 @@
   <li>Basheer: Food deficit and GDP data</li>
 </ul>
 
-<h2><b>Data Sets</b><h2>
+<h2><b>Data Sets</b></h2>
 <p>A variety of data sets are being used throughout the course of this project. All of them thus far have been pushed to Github as .csv files, however the original sources have been added here as well.</p>
 <ul>
   <li>Food Deficit: (https://data.worldbank.org/indicator/SN.ITK.DFCT?view=chart)</li>
