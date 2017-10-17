@@ -5,12 +5,15 @@ Team Member Name: Ashley Overman
 		Update and elaborate on readme
 		Compare imports and exports by year (matplotlib)
 		Be able to choose years to view imports and exports of
+		Add useful background info/definitions to imports/exports file
 	Achieved Goals:
 		10/15 - readme updated
 			https://github.com/UNCG-CSE/World-Refugee-Forecast/commit/677ae0ca9c1d0d5ad54563172258899832325395
 		10/15,16,17 - imports and exports on matplotlib
 			users can choose which years and imports/exports to view in a graph
 			https://github.com/UNCG-CSE/World-Refugee-Forecast/commit/064db0fc1d7dc73c034640c6b9bd6b7485fd7afb
+			users can choose two years to compare imports and exports of
+			https://github.com/UNCG-CSE/World-Refugee-Forecast/commit/a83b51bd7a834f095a72f71bd963cb8beac47927
             
 Team Member Name: Nathaniel Clay Arnold 
     Target Goals: 
