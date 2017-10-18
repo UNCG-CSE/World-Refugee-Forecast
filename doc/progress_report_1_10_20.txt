@@ -42,7 +42,7 @@ Team Member Name: Basheer Eljabaly
 		   https://github.com/UNCG-CSE/World-Refugee-Forecast/commit/f418658287642bd44b9e6d17d84b298d502c193d
         10/17 - create a line chart for food deficit for all years for a single country based on input
 		   https://github.com/UNCG-CSE/World-Refugee-Forecast/commit/3966353b24bab1f1fa4daae2b8335cc1ace99363
-	10/18 - Visually compare a single country food deficit vs. refugee by country of origin based on input (I also added .head() 			whenever I displayed a csv so alot of deletions in that commit)
+	10/18 - Visually compare a single country food deficit vs. refugee by country of origin based on input (I also added .head() whenever I displayed a csv so alot of deletions in that commit)
 		   https://github.com/UNCG-CSE/World-Refugee-Forecast/commit/5653a66d2b8a470fa120124e52d00da8dae92349
     
 	   
