@@ -35,12 +35,19 @@ Team Member Name: Basheer Eljabaly
     	   Create a bar chart for food deficit in all countries for a single year based on input using matplotlib
 	   Create a line chart for food deficit for all years for a single country based on input
 	   Visually compare a single country food deficit vs. refugees by country of origin
+	   Do what is listed above for GDP per capita
     Achieved Goals:
     	10/13,16 - create a bar char for food deficit in all countries for a single year based on input using matplotlib
 		   https://github.com/UNCG-CSE/World-Refugee-Forecast/commit/631bed0ff72cb032a2d70684ad9c3cc463d864f1
 		   https://github.com/UNCG-CSE/World-Refugee-Forecast/commit/f418658287642bd44b9e6d17d84b298d502c193d
         10/17 - create a line chart for food deficit for all years for a single country based on input
 		   https://github.com/UNCG-CSE/World-Refugee-Forecast/commit/3966353b24bab1f1fa4daae2b8335cc1ace99363
+        10/18 - visually compare a single country food deficit vs. refugees by country of origin based on input
+		   https://github.com/UNCG-CSE/World-Refugee-Forecast/commit/5653a66d2b8a470fa120124e52d00da8dae92349
+	10/20 - Do what is listed above for GDP per capita
+		   https://github.com/UNCG-CSE/World-Refugee-Forecast/commit/38ef096e41369738306feb57f44e0c1efb79639c
+		   https://github.com/UNCG-CSE/World-Refugee-Forecast/commit/15f40a4d25bdc51ee949f0b5041a5a9b5bff4387
+	
 
 Team Member Name: Rishi Khanna
     Target Goals:
